@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f4f8fb;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(135deg, #4fc3f7, #0288d1);
+  color: white;
+  text-align: center;
+  padding: 30px 10px;
+}
+
+main {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 0 15px;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.video-section {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.video-section video {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.materi ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #0288d1;
+  color: white;
+  margin-top: 40px;
+}
